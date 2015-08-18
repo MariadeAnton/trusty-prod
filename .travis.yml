@@ -7,4 +7,4 @@ before_install:
   - sudo apt-get install mysql-server-5.6
 
 script:
- - sudo service mongod status
+  - sudo service mongod status
